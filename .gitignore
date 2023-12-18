@@ -1,0 +1,7 @@
+.env
+
+*.session
+
+gnu_instagram
+
+getdata.py
